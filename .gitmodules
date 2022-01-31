@@ -1,0 +1,12 @@
+[submodule "comp3231-ass0"]
+	path = comp3231-ass0
+	url = git@gitlab.com:dennuguyen/comp3231-ass0.git
+[submodule "comp3231-ass1"]
+	path = comp3231-ass1
+	url = git@gitlab.com:dennuguyen/comp3231-ass1.git
+[submodule "comp3231-ass2"]
+	path = comp3231-ass2
+	url = git@gitlab.com:dennuguyen/comp3231-ass2.git
+[submodule "comp3231-ass3"]
+	path = comp3231-ass3
+	url = git@gitlab.com:dennuguyen/comp3231-ass3.git
